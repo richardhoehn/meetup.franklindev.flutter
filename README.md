@@ -9,14 +9,14 @@ We'll discuss Flutter's expressive and flexible UI capabilities, fast developmen
 Whether you're an experienced developer or new to cross-platform development, this session strives to provide a basic understanding of Flutter's capabilities and advantages and a practical example of its application. Join us to discover how Flutter can enhance your development process and help you create high-quality, cross-platform applications.
 
 ## Agenda
-11:45: Eat and Hang out
-12:00: Welcome, announcements
-12:10: Presentation
+11:45: Eat and Hang out<br>
+12:00: Welcome, announcements<br>
+12:10: Presentation<br>
 1:00 Meetup ends
 
 ## Location
-Williamson, Inc - Williamson County Chamber
-4031 Aspen Grove Dr., Suite 630
+Williamson, Inc - Williamson County Chamber<br>
+4031 Aspen Grove Dr., Suite 630<br>
 Franklin, TN 37067
 
 ## Presenter Bio
