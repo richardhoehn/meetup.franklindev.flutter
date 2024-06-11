@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
           title: const Text('Franklin Dev Meetup'),
         ),
         body: Center(
-          //child: Text('Hello World!'),
+          //child: Text('Hello World! Nice!'),
           //child: ButtonWidget(),
           child: DemoStatefulWidget(),
         ),
@@ -44,6 +44,8 @@ class ButtonWidget extends StatelessWidget {
 }
 
 class DemoStatefulWidget extends StatefulWidget {
+  const DemoStatefulWidget({super.key});
+
   @override
   _DemoStatefulWidgetState createState() => _DemoStatefulWidgetState();
 }

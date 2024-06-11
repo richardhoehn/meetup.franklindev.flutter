@@ -5,8 +5,6 @@ import 'package:app_state_mgmt/widgets/volume_level.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'provider.dart'; // Import the counter_provider file
-
 void main() {
   runApp(
     // Wrap the app in a ProviderScope to provide Riverpod state management
@@ -23,7 +21,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: const Text('State Mgmt.'),),
+        appBar: AppBar(title: const Text('State Mgmt.'), centerTitle: true,),
         body: const Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
